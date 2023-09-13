@@ -1,0 +1,30 @@
+.contact {
+  color: rgb(44, 62, 80);
+}
+
+.contact .line {
+  background-color: rgb(44, 62, 80);
+}
+input {
+  outline: none;
+  border: none;
+  -webkit-border: 1px solid rgb(44, 62, 80);
+  -moz-border: 1px solid rgb(44, 62, 80);
+  -ms-border: 1px solid rgb(44, 62, 80);
+  -o-border: 1px solid rgb(44, 62, 80);
+}
+input:active input:focus {
+  outline: none;
+  border: none;
+  background-color: transparent;
+}
+button {
+  background-color: #1abc9c;
+  border: 1px solid transparent;
+  padding: 10px 25px;
+}
+
+h1 {
+  font-size: 40px;
+  font-weight: 700;
+}

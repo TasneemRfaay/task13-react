@@ -1,0 +1,12 @@
+.about {
+  background-color: #1abc9c;
+  padding-top: 50px;
+}
+.line {
+  width: 10%;
+  height: 5px;
+}
+h1 {
+  font-size: 40px;
+  font-weight: 700;
+}

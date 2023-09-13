@@ -1,0 +1,9 @@
+.line {
+  background-color: rgb(44, 62, 80);
+  height: 5px;
+  width: 10%;
+}
+h1{
+    font-size: 40px;
+    font-weight: 700;
+}

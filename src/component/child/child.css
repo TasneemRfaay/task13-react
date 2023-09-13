@@ -1,0 +1,15 @@
+.col-md-4:hover .Layer {
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 95%;
+  background-color: #1abc9ce6;
+  opacity: 0.9 !important;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  margin-right: 50px;
+}
